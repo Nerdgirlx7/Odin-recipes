@@ -1,0 +1,36 @@
+.Page { 
+    background-color: bisque;
+}
+
+.Title {
+    color: purple;
+    background-color: rgb(210, 210, 242);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Center,
+.TC,
+.Dulce,
+.I,
+.D,
+.List1,
+.Toppings,
+.Directions,
+.T2,
+.Assemble,
+.S
+   {
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
+
+
+.Text {
+    color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
