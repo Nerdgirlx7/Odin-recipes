@@ -1,0 +1,21 @@
+.Odin {
+    color: bisque;
+    background-color: maroon;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+.Tres,
+.Conchas,
+.Flan {
+    background-color: bisque;
+    color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Color {
+    background-color: seashell;
+}
+
+.pic {
+    text-align: center;
+}
