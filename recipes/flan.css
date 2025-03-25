@@ -1,0 +1,19 @@
+.Page {
+    background-color: blanchedalmond;
+}
+.Text {
+    color: maroon;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.image {
+    text-align: center;
+}
+
+ul {list-style: none;}
+
+.high,
+.Title {
+    background-color: rgb(237, 205, 166);
+}
