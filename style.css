@@ -2,6 +2,7 @@
     color: bisque;
     background-color: maroon;
     font-family: Georgia, Times, 'Times New Roman', serif;
+    margin: center;
 }
 
 .Tres,
@@ -10,6 +11,8 @@
     background-color: bisque;
     color: bisque;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 8px;
+    margin: 2px;
 }
 
 .Color {
@@ -18,4 +21,5 @@
 
 .pic {
     text-align: center;
+    padding: 8px;
 }
