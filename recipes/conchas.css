@@ -1,16 +1,26 @@
 .Page { 
-    background-color: bisque;
+    background-color:  rgb(210, 210, 242);
+    border-style: double;
 }
 
 .Title {
     color: purple;
-    background-color: rgb(210, 210, 242);
+    background-color: rgb(253, 212, 241);
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    border: double;
+    margin: 8px;
 }
-.Center,
-.TC,
-.Dulce,
+
+.Center {
+    text-align: center;
+    padding: 100px;
+    margin: 8px;
+    
+
+
+}
+
 .I,
 .D,
 .List1,
@@ -20,17 +30,36 @@
 .Assemble,
 .S
    {
-    text-align: center;
+    display: inline;
+    background-color: rgb(210, 210, 242);
 }
 
 ul {
-    list-style-position: inside;
-    text-align: center;
+    list-style-position: none;
+ border-style: double;
 }
 
 
 .Text {
     color: purple;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline;
 }
 
+.TC,
+.Dulce
+{ text-align: center;
+    border-bottom: rgb(253, 212, 241) dotted;
+    padding: 8px;
+  
+}
+
+.button {
+    background-color:  rgb(253, 212, 241);
+    text-align: center;
+    border: dotted;
+}
+.cute {
+    background-color:  rgb(210, 210, 242);
+
+}
