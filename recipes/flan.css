@@ -5,15 +5,38 @@
     color: maroon;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: double;
+    padding: 25px;
 }
 
 .image {
     text-align: center;
+    display:inline-flex
+
 }
 
 ul {list-style: none;}
 
-.high,
 .Title {
     background-color: rgb(237, 205, 166);
+    padding: 0px;
+    margin: 8px;
+    border-style: double;
+}
+.list {
+    background-color:rgb(237, 205, 166);
+    border-style: double;
+ }
+.button {
+    background-color: rgb(237, 205, 166);
+    text-align: center;
+    padding: 8px;
+    border-style: double;
+}
+
+.cute {
+    background-color:blanchedalmond;
+    color: maroon;
+    border-style: double;
+
 }
