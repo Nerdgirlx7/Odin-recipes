@@ -17,27 +17,30 @@
 
 .list {
     background-color: seashell;
+    color: rgb(186, 64, 85);
 
 }
 
 .Olist {
     background-color: seashell;
+    color: rgb(186, 64, 85);
 }
 
-.In,
-.Cup,
-.Cookie {
-   background-color: rgb(246, 216, 221);
+.In
+ {
+   
    color: rgb(186, 64, 85);
    font-family: Georgia, 'Times New Roman', Times, serif;
-   margin: 8px;
+   margin: 0px;
+   text-align: center;
 }
 
-.Cake {
-    background-color: rgb(246, 216, 221);
+.cake {
+   color:rgb(186, 64, 85);
     text-align: center;
-    padding: 12px;
-    margin: 8px;
+    padding: 0px;
+    margin: 10px;
+    display: block;
 
 }
 
@@ -51,12 +54,17 @@
 }
 
 .Art {
-    flex: 33.33%;
-    padding: 5px;}
+    flex: 5%;
+    padding: 0px;
+    margin: 0px }
 
 .button {
-    text-align: center;
-    padding: 2px;
     background-color: pink;
-  
+    text-align: center;
+    margin: 8px;
+}
+.Cup,
+.Cookie{ background-color:  rgb(246, 216, 221);
+    color:rgb(186, 64, 85);
+
 }
